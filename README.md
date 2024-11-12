@@ -9,17 +9,24 @@
 **\<Put download link here\>**  
 **\<Put main graphic here\>**  
 
+<br />
 <div align="center" style="padding-top: 30px;">
 
-  ## Dataset Overview 
+  ## Dataset Overview
 
-  <br />
+</div>
 
-|  | Bear | Buck | Bunny | Chicken | Deer | Dog | Elk | Fox | Moose | Puma | Rabbit | Raccoon | Tiger | Total |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Animations | 67 | 42 | 45 | 7 | 56 | 65 | 67 | 37 | 59 | 68 | 45 | 54 | 66 | 678 |
-| Frames | 4,464 | 3,168 | 3,072 | 432 | 3,648 | 4,128 | 5,328 | 2,304 | 3,792 | 5,808 | 3,072 | 4,176 | 4,992 | 48,384 |
-| Joints | 21 | 27 | 25 | 19 | 29 | 22 | 26 | 26 | 29 | 26 | 25 | 28 | 27 | 330 |
+There are 13 animals in our dataset. Each animal has different xyz.
+
+<br />
+
+<div align="center">
+
+  |  | Bear | Buck | Bunny | Chicken | Deer | Dog | Elk | Fox | Moose | Puma | Rabbit | Raccoon | Tiger | Total |
+  | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+  | Animations | 67 | 42 | 45 | 7 | 56 | 65 | 67 | 37 | 59 | 68 | 45 | 54 | 66 | 678 |
+  | Frames | 4,464 | 3,168 | 3,072 | 432 | 3,648 | 4,128 | 5,328 | 2,304 | 3,792 | 5,808 | 3,072 | 4,176 | 4,992 | 48,384 |
+  | Joints | 21 | 27 | 25 | 19 | 29 | 22 | 26 | 26 | 29 | 26 | 25 | 28 | 27 | 330 |
 
 </div>
 <br />
@@ -30,7 +37,7 @@
   ## Data Format 
 
 </div>
-<br />
+<!-- <br /> -->
 
 The dataset directory is organised by animal. Each animal has a set of `.json` files, each holding data for a specific animation sequence.
 
@@ -64,6 +71,7 @@ points              |
 └── scaling_factor  | Scaling applied to 3D points.
 ```
 
+<br />
 <div align="center" style="padding-top: 30px;">
 
   ## BibTeX
@@ -81,7 +89,7 @@ Please cite us if you find AnimalSyn3D useful in your research.
 }
 ```
 
-<!-- <br /> -->
+<br />
 <div align="center" style="padding-top: 30px;">
 
   ## Acknowledgements
