@@ -21,7 +21,7 @@
 
 </div>
 
-There are 13 animals in our dataset. Each animal has different xyz.
+There are 13 animals in our dataset. Each animal may have a different number of joints, skeleton configuration, number of frames, and types of animations.
 
 <br />
 
