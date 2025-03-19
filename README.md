@@ -6,8 +6,13 @@
 
 **AnimalSyn3D** is a synthetic dataset containing sparse 3D keypoints and skeleton configurations for a variety of different animals. Each animal has various animated movements that are split into 48-frame sequences with keypoint correspondences across frames.
 
-**\<Put download link here\>**  
+<div align="center">
+  <a href="https://github.com/CJcool06/AnimalSyn3D/releases">Download Dataset Here</a>
+</div>
+
+<!--
 **\<Put main graphic here\>**  
+-->
 
 <br />
 <div align="center" style="padding-top: 30px;">
